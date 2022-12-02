@@ -1,4 +1,4 @@
-I am a meticulous and resolute Computer Engineer. I would like to exploit my desire and my ability to design software and systems in general to contribute to the technological progress, putting into effect ideas that will change our lives.
+I am a meticulous and resolute Computer Engineer. I pay a lot of attention to details and I always delve in what I do. I would like to exploit my desire and my ability to design software and systems in general to contribute to the technological progress, putting into effect ideas that will change our lives.
 
 🎓  Academic background:
 - **Erasmus+ Exchange Program** at Universitat Politècnica de Catalunya (Barcelona, Spain)
