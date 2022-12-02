@@ -18,6 +18,12 @@ I am a meticulous and resolute Computer Engineer. I like designing something by 
     - GPA: 29.64/30.
 
 
+🏅  Honors and Awards:
+- Winner of the 2021 edition of Bending Spoons' First Ascent program
+- Project Manager of a 2-times national awarded monitoring project about a 40-year-old unfinished work of a local town 
+- Finalist in the team competition of the National Mathematics Olympiads
+
+
 <!--
 **Sbi98/Sbi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
