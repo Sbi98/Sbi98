@@ -6,7 +6,7 @@ I am a meticulous and resolute Computer Engineer. I pay a lot of attention to de
 - **Master of Science in Computer Science and Engineering** at Politecnico di Milano (Milan, Italy)
     - Focus on Software Engineering, Software Development and Distributed Systems. 
     - MSc thesis on Self-Adaptive Systems. 
-    - GPA of 29.3/30.
+    - GPA: 29.3/30.
 - **Apple Foundation Program** at Università degli Studi di Salerno (Salerno, Italy)
     - Challenge-Based Learning (CBL) approach to problem-solving 
     - Mobile development in Swift and SwiftUI
