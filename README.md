@@ -5,7 +5,8 @@ I am a meticulous and resolute Computer Engineer. I pay a lot of attention to de
     - Focus on Human-Computer Interaction, Cloud Computing and Big Data Analytics. 
 - **Master of Science in Computer Science and Engineering** at Politecnico di Milano (Milan, Italy)
     - Focus on Software Engineering, Software Development and Distributed Systems. 
-    - MSc thesis on Self-Adaptive Systems. 
+    - MSc thesis on Self-Adaptive Systems.
+    - 110/110 cum Laude.
     - GPA: 29.3/30.
 - **Apple Foundation Program** at Università degli Studi di Salerno (Salerno, Italy)
     - Challenge-Based Learning (CBL) approach to problem-solving 
